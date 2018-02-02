@@ -1,0 +1,53 @@
+/*
+font-family: 'Grand Hotel', cursive;
+font-family: 'Montserrat', sans-serif;
+color pallet
+http://paletton.com/#uid=53y0u0kd9rU4qKK8wydiemXmViq
+*/
+.container-fluid.header {
+	background: #1C6447;
+}
+.h1 {
+	font-family: 'Grand Hotel', cursive;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin-bottom: 0;
+	color: #B8D6CA;
+}
+a:hover {
+	text-decoration: none;
+}
+a .site-title.h1:hover {
+	
+	color: #B6C5D1;
+}
+.tweet-container {
+	background: #B6C5D1;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.i {
+	font-style: italic;
+}
+.twitter-tweet.twitter-tweet-rendered {
+	margin-right: auto;
+	margin-left: auto;
+}
+.about {
+	background: #B8D6CA;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	color: #20425F;
+	
+}
+sgv {
+	color: blue;
+}
+footer {
+	background: #20425F;
+	text-align:center;
+}
