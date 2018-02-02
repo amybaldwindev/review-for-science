@@ -18,8 +18,7 @@ http://paletton.com/#uid=53y0u0kd9rU4qKK8wydiemXmViq
 a:hover {
 	text-decoration: none;
 }
-a .site-title.h1:hover {
-	
+a .site-title.h1:hover {	
 	color: #B6C5D1;
 }
 .tweet-container {
@@ -27,7 +26,6 @@ a .site-title.h1:hover {
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
-
 .i {
 	font-style: italic;
 }
@@ -42,7 +40,6 @@ a .site-title.h1:hover {
 	padding-top: 1em;
 	padding-bottom: 1em;
 	color: #20425F;
-	
 }
 sgv.fa-twitter {
 	color: blue;
