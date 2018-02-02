@@ -23,7 +23,7 @@ a .site-title.h1:hover {
 	color: #B6C5D1;
 }
 .tweet-container {
-	background: #B6C5D1;
+	background: #FAFBFC;
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
@@ -44,7 +44,7 @@ a .site-title.h1:hover {
 	color: #20425F;
 	
 }
-sgv {
+sgv.fa-twitter {
 	color: blue;
 }
 footer {
